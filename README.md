@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Toussaintnt</h1>
+<h1 align="center">Hi 👋, I'm Toussaint</h1>
 <h3 align="center">A passionate frontend/backend developer from Burundi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toussaint-coder&label=Profile%20views&color=0e75b6&style=flat" alt="toussaint-coder" /> </p>
