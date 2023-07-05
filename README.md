@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on **TBR Agency**
 
-- 🌱 I’m currently learning **mysql datatbase**
-
 - 💬 Ask me about **Js , react**
 
 - 📫 How to reach me **toussaintiradukunda4@gmail.com**
